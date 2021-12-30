@@ -1,5 +1,5 @@
 # Blog-HTML-CSS
-I started my programming career a short time ago, I begin following ```<a href="https://www.theodinproject.com">The Odin Project</a>```, through which I learned how to create a small Web Page using HTML.
+I started my programming career a short time ago, I begin following <a href="https://www.theodinproject.com">The Odin Project</a>, through which I learned how to create a small Web Page using HTML.
 
 1. What is HTML?
 - HTML is a language for describing web pages.
